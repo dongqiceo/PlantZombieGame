@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="600,400">
+  <displayList>
+    <image id="n0_vqfk" name="back" src="vqfk2" fileName="gamestart/Surface.png" xy="0,0" size="600,400"/>
+    <component id="n5_vqfk" name="setting" src="vqfk8" fileName="gamestart/Button1.xml" xy="423,292" size="58,66"/>
+    <component id="n6_vqfk" name="quit" src="vqfk8" fileName="gamestart/Button1.xml" xy="532,296" size="55,74"/>
+    <component id="n8_ne7z" name="letsgo" src="vqfk7" fileName="gamestart/start.xml" xy="310,45" size="235,113"/>
+  </displayList>
+</component>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="fzstekaa" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="vqfk0" name="gamestart.xml" path="/gamestart/" exported="true"/>
+    <component id="vqfk1" name="gamepanel.xml" path="/gamepanel/" exported="true"/>
+    <image id="vqfk2" name="Surface.png" path="/gamestart/img/" exported="true"/>
+    <image id="vqfk4" name="0.png" path="/gamestart/img/" exported="true"/>
+    <image id="vqfk5" name="1.png" path="/gamestart/img/" exported="true"/>
+    <component id="vqfk7" name="start.xml" path="/gamestart/" exported="true"/>
+    <component id="vqfk8" name="Button1.xml" path="/gamestart/" exported="true"/>
+    <movieclip id="vqfk9" name="sun.jta" path="/gamepanel/" exported="true"/>
+    <image id="vqfka" name="background1.jpg" path="/gamepanel/img/" exported="true"/>
+    <movieclip id="ne7zb" name="normalZombie.jta" path="/gamepanel/" exported="true"/>
+    <movieclip id="ne7zc" name="flagZombie.jta" path="/gamepanel/" exported="true"/>
+    <movieclip id="ne7zd" name="roadpilezombie.jta" path="/gamepanel/" exported="true"/>
+    <image id="ne7ze" name="bullet_pea.png" path="/gamepanel/img/" exported="true"/>
+    <image id="ne7zf" name="bullet_snow.png" path="/gamepanel/img/" exported="true"/>
+    <image id="ne7zh" name="Normalunflower.png" path="/gamepanel/img/card/" exported="true"/>
+    <image id="ne7zi" name="Normalpea.png" path="/gamepanel/img/card/" exported="true"/>
+    <image id="ne7zj" name="Normalsnow.png" path="/gamepanel/img/card/" exported="true"/>
+    <image id="ne7zl" name="Disabledsunflower.png" path="/gamepanel/img/card/" exported="true"/>
+    <image id="ne7zm" name="Disabledpea.png" path="/gamepanel/img/card/" exported="true"/>
+    <image id="ne7zn" name="Disabledsnow.png" path="/gamepanel/img/card/" exported="true"/>
+    <image id="ne7zo" name="Disabledjalapeno.png" path="/gamepanel/img/card/" exported="true"/>
+    <image id="ne7zp" name="TallNut.png" path="/gamepanel/img/card/" exported="true"/>
+    <image id="ne7zq" name="TallNutG.png" path="/gamepanel/img/card/" exported="true"/>
+    <image id="ne7zr" name="Normaljalapeno.png" path="/gamepanel/img/card/" exported="true"/>
+    <image id="ne7zs" name="SunBack.png" path="/gamepanel/img/" exported="true"/>
+    <component id="ne7zt" name="CompCardItem.xml" path="/gamepanel/"/>
+    <image id="ne7zu" name="selectBack.png" path="/gamepanel/img/" exported="true"/>
+    <image id="ne7zv" name="normalBack.png" path="/gamepanel/img/" exported="true"/>
+    <component id="ne7zw" name="backhome.xml" path="/gamepanel/" exported="true"/>
+    <movieclip id="bhqax" name="pea.jta" path="/gamepanel/img/" exported="true"/>
+    <movieclip id="bhqay" name="snow.jta" path="/gamepanel/img/" exported="true"/>
+    <movieclip id="bhqaz" name="sunflower.jta" path="/gamepanel/img/" exported="true"/>
+  </resources>
+  <publish name="PlantsvsZombies" path="E:\work\svnspace\PlantsvsZombies\bin\res"/>
+</packageDescription>

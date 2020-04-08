@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,50">
+  <displayList>
+    <graph id="n2_ne7z" name="n2" xy="0,0" size="100,50" type="rect"/>
+    <loader id="n1_ne7z" name="icon" xy="1,1" size="100,50"/>
+    <component id="n3_ne7z" name="n3" src="vqfk8" fileName="gamestart/Button1.xml" xy="1,13" size="100,30">
+      <Button icon="ui://fzstekaane7zp"/>
+    </component>
+  </displayList>
+</component>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="600,400" adaptationTest="FitSize">
+  <controller name="c1" pages="0,空,1,向日葵,2,豌豆,3,坚果" selected="0"/>
+  <displayList>
+    <image id="n0_lutp" name="back" src="vqfka" fileName="gamepanel/img/background1.jpg" xy="-46,0" size="830,399">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <graph id="n7_ne7z" name="green" xy="101,52" size="443,330"/>
+    <component id="n28_ne7z" name="backhome" src="ne7zw" fileName="gamepanel/backhome.xml" xy="550,0" size="50,20">
+      <relation target="" sidePair="right-right,top-top"/>
+    </component>
+    <image id="n35_qqu2" name="n35" src="ne7zs" fileName="gamepanel/img/SunBack.png" xy="1,0" size="137,34"/>
+    <text id="n31_bhqa" name="score" xy="46,1" size="83,35" fontSize="26" autoSize="none" text="0">
+      <relation target="n35_qqu2" sidePair="center-center,middle-middle"/>
+    </text>
+    <list id="n27_ne7z" name="card" xy="137,0" size="412,52" layout="row" overflow="scroll" scroll="horizontal" defaultItem="ui://fzstekaane7zt">
+      <relation target="" sidePair="top-top"/>
+      <relation target="n35_qqu2" sidePair="leftext-left"/>
+      <relation target="n28_ne7z" sidePair="rightext-right"/>
+      <item icon="ui://fzstekaane7zh"/>
+    </list>
+  </displayList>
+</component>
